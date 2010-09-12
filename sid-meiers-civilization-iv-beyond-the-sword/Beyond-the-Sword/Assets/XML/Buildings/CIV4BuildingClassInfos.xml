@@ -7,6 +7,30 @@
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">_PHARMA
 	<BuildingClassInfos>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_CRAFT_FAIR</Type>
+			<Description>TXT_KEY_BUILDING_CRAFT_FAIR</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_CRAFT_FAIR</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_ZEN_GARDEN</Type>
+			<Description>TXT_KEY_BUILDING_ZEN_GARDEN</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_ZEN_GARDEN</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_INDEPENDENT_COMMUNE</Type>
 			<Description>TXT_KEY_BUILDING_INDEPENDENT_COMMUNE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

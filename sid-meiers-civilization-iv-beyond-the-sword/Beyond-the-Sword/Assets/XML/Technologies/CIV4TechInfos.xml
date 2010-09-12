@@ -5023,7 +5023,12 @@
 				</DomainExtraMove>
 			</DomainExtraMoves>
 			<CommerceFlexible/>
-			<TerrainTrades/>
+			<TerrainTrades>
+				<TerrainTrade>
+					<TerrainType>TERRAIN_COAST</TerrainType>
+					<bTerrainTrade>1</bTerrainTrade>
+				</TerrainTrade>
+			</TerrainTrades>
 			<bRiverTrade>0</bRiverTrade>
 			<Flavors>
 				<Flavor>
@@ -5302,7 +5307,7 @@
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<Era>ERA_MEDIEVAL</Era>
-			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<FirstFreeUnitClass>UNITCLASS_MERCHANT</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
 			<iTradeRoutes>1</iTradeRoutes>
@@ -5333,12 +5338,7 @@
 			<iGridY>14</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
-			<TerrainTrades>
-				<TerrainTrade>
-					<TerrainType>TERRAIN_COAST</TerrainType>
-					<bTerrainTrade>1</bTerrainTrade>
-				</TerrainTrade>
-			</TerrainTrades>
+			<TerrainTrades/>
 			<bRiverTrade>0</bRiverTrade>
 			<Flavors>
 				<Flavor>
